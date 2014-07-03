@@ -1,5 +1,5 @@
 var tape = require('tape')
-var ostruct = require('objectstruct')
+var ostruct = require('./')
 
 tape('hello string', function(t) {
   var o = ostruct({
