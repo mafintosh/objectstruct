@@ -6,6 +6,8 @@ schema based object encoding/decoding using [varstruct](https://github.com/domin
 npm install objectstruct
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/objectstruct.svg?style=flat)](http://travis-ci.org/mafintosh/objectstruct)
+
 ## Usage
 
 ``` js
