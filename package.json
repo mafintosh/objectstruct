@@ -1,0 +1,37 @@
+{
+  "name": "objectstruct",
+  "version": "0.0.0",
+  "description": "schema based object encoding using varstruct that supports strings, booleans etc",
+  "main": "index.js",
+  "dependencies": {
+    "varstruct": "^4.0.0"
+  },
+  "devDependencies": {
+    "tape": "^2.13.3"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mafintosh/objectstruct"
+  },
+  "keywords": [
+    "varstruct",
+    "struct",
+    "encoding",
+    "decoding",
+    "json",
+    "decode",
+    "encode",
+    "objects",
+    "protocol",
+    "schema"
+  ],
+  "author": "Mathias Buus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/objectstruct/issues"
+  },
+  "homepage": "https://github.com/mafintosh/objectstruct"
+}
