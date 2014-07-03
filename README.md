@@ -8,7 +8,7 @@ npm install objectstruct
 
 ## Usage
 
-```
+``` js
 var ostruct = require('objectstruct')
 
 var example = ostruct({
