@@ -1,6 +1,6 @@
 {
   "name": "objectstruct",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "schema based object encoding/decoding using varstruct that supports strings, booleans etc",
   "main": "index.js",
   "dependencies": {
