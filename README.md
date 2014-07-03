@@ -1,7 +1,6 @@
 # objectstruct
 
-schema based object encoding using [varstruct](https://github.com/dominictarr/varstruct)
-that supports string, booleans etc
+schema based object encoding/decoding using [varstruct](https://github.com/dominictarr/varstruct) that supports strings, booleans etc
 
 ```
 npm install objectstruct
