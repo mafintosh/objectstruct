@@ -45,7 +45,7 @@ console.log(buf) // prints a buffer
 
 var parsed = example.decode(buf)
 
-console.log(buf) // prints an object similar to above
+console.log(parsed) // prints an object similar to above
 ```
 
 ## Encodings
